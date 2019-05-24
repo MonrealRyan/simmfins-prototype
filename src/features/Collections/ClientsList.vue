@@ -29,7 +29,7 @@
                     </q-item-label>
                   </q-item-section>
                   <q-item-section side>
-                    <q-badge class="justify-center" color="positive" style="min-width: 80px;">
+                    <q-badge class="justify-center cursor-pointer" color="positive" style="min-width: 80px;">
                       <span class="text-subtitle2">{{ 5000 | currency('') }}</span>
                     </q-badge>
                     <div class="cursor-pointer">
